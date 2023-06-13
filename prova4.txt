@@ -1,0 +1,223 @@
+5
+Alta Ribagorça
+26
+Pallars Sobirà
+29
+Priorat
+39
+Aran
+37
+Terra Alta
+42
+Moianès
+25
+Pallars Jussà
+35
+Solsonès
+15
+Cerdanya
+18
+Garrigues
+16
+Conca de Barberà
+4
+Alt Urgell
+30
+Ribera d'Ebre
+32
+Segarra
+31
+Ripollès
+28
+Pla de l'Estany
+38
+Urgell
+27
+Pla d'Urgell
+23
+Noguera
+14
+Berguedà
+1
+Alt Camp
+19
+Garrotxa
+22
+Montsià
+9
+Baix Ebre
+12
+Baix Penedès
+3
+Alt Penedès
+6
+Anoia
+10
+Baix Empordà
+2
+Alt Empordà
+17
+Garraf
+24
+Osona
+34
+Selva
+7
+Bages
+20
+Gironès
+8
+Baix Camp
+33
+Segrià
+36
+Tarragonès
+41
+Vallès Oriental
+21
+Maresme
+11
+Baix Llobregat
+40
+Vallès Occidental
+13
+Barcelonès
+0
+11
+80018
+Abrera
+12216
+19.9
+7
+80023
+Aguilar de Segarra
+253
+43.3
+21
+80039
+Alella
+9632
+9.6
+24
+80044
+Alpens
+294
+13.8
+41
+80057
+Ametlla del Vallès, l'
+8337
+14.2
+21
+80060
+Arenys de Mar
+15253
+6.8
+21
+80076
+Arenys de Munt
+8638
+21.3
+6
+80082
+Argençola
+227
+47.1
+21
+80095
+Argentona
+12051
+25.4
+7
+80109
+Artés
+5596
+17.9
+14
+80116
+Avià
+2257
+27.2
+7
+80121
+Avinyó
+2212
+63.2
+3
+80137
+Avinyonet del Penedès
+1665
+29.1
+41
+80142
+Aiguafreda
+2467
+7.9
+13
+80155
+Badalona
+215634
+21.2
+14
+80168
+Bagà
+2162
+43.1
+24
+80174
+Balenyà
+3705
+17.4
+7
+80180
+Balsareny
+3285
+36.9
+13
+80193
+Barcelona
+1608746
+101.3
+11
+80207
+Begues
+6736
+50.4
+6
+80214
+Bellprat
+75
+31
+14
+80229
+Berga
+16175
+22.6
+41
+80235
+Bigues i Riells
+8915
+28.6
+14
+80240
+Borredà
+495
+43.5
+6
+80253
+Bruc, el
+2014
+47.2
+24
+80266
+Brull, el
+263
+41
+3
+80272
+Cabanyes, les
+943
+1.1
+0
+0
+FI

@@ -1,0 +1,20 @@
+1
+Comarca 1
+2
+Comarca 2
+3
+Comarca 3
+0
+4
+1
+Municipi C4
+1
+1
+5
+1
+Municipi C5
+1
+1
+0
+0
+FI
